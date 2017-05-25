@@ -1,0 +1,26 @@
+{
+    "0": [
+        "academic.csv"
+    ],
+    "1": [
+        "general_user.csv"
+    ],
+    "2": [
+        "official.csv"
+    ],
+    "3": [
+        "employment.csv"
+    ],
+    "4": [
+        "mass_media.csv"
+    ],
+    "5": [
+        "general_user_hyper.csv"
+    ],
+    "6": [
+        "official_hyper.csv"
+    ],
+    "7": [
+        "mass_media_hyper.csv"
+    ]
+}

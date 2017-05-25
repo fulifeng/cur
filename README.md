@@ -22,6 +22,9 @@ python code/xxx.py
 
 It should be noted that you need to edit the `basic_dir` variable in each script to be the absolute path where the data folder is cloned. Currently, all the methods are initialized with optimal hyperparameters tunned with grid search as described in the paper. If you want to further tune the hyperparameters, set the `tune` variable in the corresponding function to be `True` first.  
 
+## Result
+Our latest [Chinese University Ranking](http://unirank.nextcenter.org).
+
 ## Cite
 
 If you use the code, please kindly cite the following paper:

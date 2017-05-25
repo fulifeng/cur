@@ -25,20 +25,15 @@ It should be noted that you need to edit the `basic_dir` variable in each script
 ## Cite
 
 If you use the code, please kindly cite the following paper:
-
+```
 @inproceedings{fuli2017computational,
-
   title={Computational social indicators: a case study of Chinese university ranking},
-  
   author={Feng, Fuli and Nie, Liqiang and Wang, Xiang, and Hong, Richang and Chua Tat-Seng},
-  
   booktitle={Proceedings of International ACM SIGIR Conference on Research and Development in Informaion Retrieval},
-  
   year={2017},
-  
   organization={ACM}
-
 }
+```
 
 ## Contact
 

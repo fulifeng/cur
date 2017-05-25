@@ -4,12 +4,13 @@ Data:
 All the data and calculated Laplacian matrices mentioned in the paper are under the data folder. For detailed data collection and Laplacian computation, please refer to the paper.
 
 Code:
-Graph-based Multi-channel Ranking (GMR) run_gmr.py
-Heuristic Ranking                       run_heuristic.py
-Early Fusion                            run_early_fusion.py
-Late Fusion                             run_late_fusion.py
-Joint Learning                          run_joint_learning.py
-Subspace Learning                       run_subspace_learning.py
+|Graph-based Multi-channel Ranking (GMR) | run_gmr.py |
+| ------------- | ------------- |
+|Heuristic Ranking                       | run_heuristic.py |
+|Early Fusion                            | run_early_fusion.py |
+|Late Fusion                             | run_late_fusion.py |
+|Joint Learning                          | run_joint_learning.py |
+|Subspace Learning                       | run_subspace_learning.py|
 
 If you want to use any of the aforementioned methods, just run the corresponding script with:
         python xxx.py
